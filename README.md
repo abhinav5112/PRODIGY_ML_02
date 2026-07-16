@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-## 📌 Overview
+## Overview
 
 This project implements the K-Means Clustering algorithm to segment retail store customers based on their Annual Income and Spending Score. Customer segmentation helps businesses understand different customer groups and create targeted marketing strategies.
 
@@ -8,7 +8,7 @@ This project was completed as **Task-02** of the **Prodigy InfoTech Machine Lear
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to:
 
@@ -19,7 +19,7 @@ The objective of this project is to:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Mall Customer Segmentation Dataset**
 
@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -47,13 +47,13 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 ---
 
-## 📈 Machine Learning Algorithm
+## Machine Learning Algorithm
 
 - K-Means Clustering (Unsupervised Learning)
 
 ---
 
-## 📋 Steps Performed
+## Steps Performed
 
 1. Import required libraries.
 2. Load the customer dataset.
@@ -66,7 +66,7 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 ---
 
-## 📊 Output
+## Output
 
 The project generates:
 
@@ -76,7 +76,7 @@ The project generates:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Task-02/
@@ -91,7 +91,7 @@ Task-02/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Use additional customer features for segmentation.
 - Apply Hierarchical Clustering.
@@ -100,7 +100,7 @@ Task-02/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Abhinav Kumar**
 
@@ -110,6 +110,6 @@ Machine Learning Intern at Prodigy InfoTech
 
 ---
 
-## ⭐ Acknowledgement
+## Acknowledgement
 
 This project was completed as part of the **Prodigy InfoTech Machine Learning Internship Program**.
